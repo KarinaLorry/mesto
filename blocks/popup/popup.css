@@ -6,8 +6,6 @@
   inset: 0;
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 2;
-  display: none;
-  transition: all 0.2s linear;
+  visibility: hidden;
   opacity: 0;
-  
 }
