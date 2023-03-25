@@ -10,5 +10,5 @@
 Использовала Flexbox и Grid Layout и многое другое.  
 ---  
 Ссылка на мой проект:  
-
+https://karinalorry.github.io/mesto/
 
