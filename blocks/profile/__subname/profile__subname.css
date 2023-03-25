@@ -3,6 +3,7 @@
   margin: 0;
   white-space: nowrap;
   text-overflow: ellipsis;
+  overflow: hidden;
   font-size: calc((100vw - 320px) / (1280 - 320) * (18 - 14) + 14px);
   font-weight: 400;
   line-height: calc((100vw - 320px) / (1280 - 320) * (22 - 17) + 20px);

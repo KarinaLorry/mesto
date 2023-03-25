@@ -3,4 +3,6 @@
   margin: 0 auto;
   overflow: hidden;
   border-radius: 10px;
+  display: flex;
+  flex-direction: column;
 }
