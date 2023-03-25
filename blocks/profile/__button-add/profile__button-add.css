@@ -3,6 +3,7 @@
   height: 50px;
   margin-left: auto;
   border: 2px solid #fff;
+  border-radius: 2px;
   background: url(../../../images/profile/btn-add.svg) center center / 22px no-repeat;
 }
 
